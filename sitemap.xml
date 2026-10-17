@@ -19,9 +19,9 @@
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/area/sapporo/</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-yasui-jiki/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/tanshin-pack/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/nizukuri-kotsu/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/jusho-henko-checklist/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/fuyohin-shobun/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/nizukuri-kotsu/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/jusho-henko-checklist/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/fuyohin-shobun/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/ogata-kagu-kaden/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hanboki-yoyaku/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/homon-mitsumori/</loc><lastmod>2026-08-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -29,28 +29,37 @@
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/privacy/</loc><lastmod>2026-06-18</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/terms/</loc><lastmod>2026-06-18</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/content-policy/</loc><lastmod>2026-06-18</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-aisatsu/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-nagare/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-aisatsu/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-nagare/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/mitsumori-hikaku-kosho/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/danboru-nyushu/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/danboru-nyushu/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/reizoko-sentakuki-junbi/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-hosho/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/lifeline-teishi-kaishi/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-1kagetsu-mae/</loc><lastmod>2026-09-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/pet-hikkoshi/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-hosho/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/lifeline-teishi-kaishi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-1kagetsu-mae/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/pet-hikkoshi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/piano-juryobutsu/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kuruma-bike-tetsuzuki/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kuruma-bike-tetsuzuki/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/internet-kaisen-hikkoshi/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-cancel/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-cancel/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kyukyo-souji-genjokaifuku/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hitorigurashi-hikkoshi-junbi/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kazoku-kosodate-hikkoshi/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-toujitsu-nagare/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/shinkyo-nyukyo-mae-check/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hitorigurashi-hikkoshi-junbi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kazoku-kosodate-hikkoshi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-toujitsu-nagare/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/shinkyo-nyukyo-mae-check/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-gomi-ooi-dashikata/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/mitsumorisho-option-mikata/</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kinkyori-hikkoshi-jibun/</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/chokyori-hikkoshi-junbi/</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/tenkin-kaisha-futan-hikkoshi/</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kourei-oya-hikkoshi-support/</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/mitsumorisho-option-mikata/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kinkyori-hikkoshi-jibun/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/chokyori-hikkoshi-junbi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/tenkin-kaisha-futan-hikkoshi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kourei-oya-hikkoshi-support/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/tenshutsu-tennyu-tenkyo-todoke/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-online-tenshutsu/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/mynumber-card-hikkoshi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/yubin-tenso-todoke/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kokuho-nenkin-hikkoshi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/nihodoki-junban/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/hikkoshi-kokorozuke/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/ame-no-hi-hikkoshi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://hikkoshi-biyori-deploy.pages.dev/kanyo-shokubutsu-hikkoshi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
